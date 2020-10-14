@@ -1,0 +1,26 @@
+{
+  "author": "Bob",
+  "name": "typedoc-plugin-remove-references",
+  "version": "0.0.4",
+  "description": "typedoc plugin to remove re-exports references",
+  "homepage": "https://github.com/eyworldwide/typedoc-plugin-remove-references",
+  "bugs": "https://github.com/eyworldwide/typedoc-plugin-remove-references/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eyworldwide/typedoc-plugin-remove-references"
+  },
+  "license": "MIT",
+  "keywords": [
+    "typedocplugin",
+    "typedoc"
+  ],
+  "devDependencies": {
+    "@types/node": "^13.9.0",
+    "typedoc": "^0.19.2",
+    "typescript": "^3.7.5"
+  },
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  }
+}
