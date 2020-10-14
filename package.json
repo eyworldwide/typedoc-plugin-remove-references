@@ -1,7 +1,7 @@
 {
   "author": "Bob",
   "name": "typedoc-plugin-remove-references",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "typedoc plugin to remove re-exports references",
   "homepage": "https://github.com/eyworldwide/typedoc-plugin-remove-references",
   "bugs": "https://github.com/eyworldwide/typedoc-plugin-remove-references/issues",
