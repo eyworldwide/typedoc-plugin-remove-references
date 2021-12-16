@@ -5,11 +5,3 @@
 ```bash
 npm i typedoc-plugin-remove-references
 ```
-
-Add `typedoc-plugin-remove-references` to typedoc [options](https://typedoc.org/guides/options/#plugin).
-
-```typescript
-{
-  plugin: ['typedoc-plugin-remove-references']
-}
-```
